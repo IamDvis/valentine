@@ -1,13 +1,13 @@
 {
-  "name": "valentine-site",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "npx serve -s . -l 8000"
-  },
-  "dependencies": {
-    "serve": "^14.2.0"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+    "name": "valentine-site",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "serve -s . -l 8000"
+    },
+    "dependencies": {
+        "serve": "^14.2.0"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
 }
